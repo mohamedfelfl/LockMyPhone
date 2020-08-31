@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Lock My Phone</string>
+    <string name="enter_time">Enter time in minutes</string>
+    <string name="lock_now">Lock Now</string>
+    <string name="edit_text_default">0</string>
+    <string name="cancel_timer">Cancel Timer</string>
+    <string name="notification_title">Lock Timer</string>
+    <string name="lock_time">Your device will lock in </string>
+    <string name="valid_value">Please enter a valid value</string>
+    <string name="minutes">minutes</string>
+    <string name="enable_admin">Please enable device admin</string>
+    <string name="lock_time_tv">Lock Time: </string>
+    <string name="auth_title">Confirm Identity</string>
+    <string name="auth_desc">Enter password to continue</string>
+    <string name="cancel_timer_action">Cancel Timer</string>
+</resources>

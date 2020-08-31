@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lock_now">القفل الآن</string>
+    <string name="enter_time">أدخل الوقت بالدقائق</string>
+    <string name="edit_text_default">0</string>
+    <string name="cancel_timer">إلغاء المؤقت</string>
+    <string name="notification_title">مؤقت قفل الهاتف</string>
+    <string name="lock_time">سوف يغلق جهازك في  </string>
+    <string name="valid_value">برجاء إدخال قيمة صحيحة</string>
+    <string name="minutes">دقيقة</string>
+    <string name="enable_admin">برجاء قم بتفعيل مسؤول الجهاز</string>
+    <string name="lock_time_tv">وقت القفل: </string>
+    <string name="auth_title">التحقق من الهوية</string>
+    <string name="auth_desc">أدخل كلمة المرور للاستمرار</string>
+    <string name="cancel_timer_action">إلغاء المؤقت</string>
+</resources>
